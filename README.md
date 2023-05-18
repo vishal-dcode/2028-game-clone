@@ -2,6 +2,8 @@
 
 Welcome to the 2028 Game Clone project! 🚀 This project aims to recreate the popular game "2028" using modern technologies and frameworks. Feel free to explore the code and contribute to the project. 😎
 
+You can also view a live demo of the project [here]().
+
 ![App Screenshot](https://i.ibb.co/hMNsXzJ/preview.png)
 
 ## Getting Started 🚀
